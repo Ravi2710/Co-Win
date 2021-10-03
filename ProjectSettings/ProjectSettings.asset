@@ -247,7 +247,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 1
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: E:/Crazy Lab Games/user.keystore
+  AndroidKeystoreName: E:/Dream Hack Studio/user.keystore
   AndroidKeyaliasName: ravikumar
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
